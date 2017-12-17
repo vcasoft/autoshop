@@ -1,4 +1,4 @@
-﻿## Welcome to VCASoft
+﻿## Welcome to VCASoft (VCASoftware LLC.)
 
 You can use the [editor on GitHub](https://github.com/vcasoft/autoshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
